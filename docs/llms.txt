@@ -13,6 +13,7 @@ Canonical app: https://ay-worldcup2026.zeabur.app/
 - Public API docs: https://ay-worldcup2026.zeabur.app/developers
 - Dataset page: https://ay-worldcup2026.zeabur.app/dataset
 - Website widget: https://ay-worldcup2026.zeabur.app/widget
+- MCP server: https://github.com/abaiii168/world-cup-2026-mcp-server
 - Community sharing kit: https://ay-worldcup2026.zeabur.app/community-kit
 - Office pool predictor: https://ay-worldcup2026.zeabur.app/office-pool
 
@@ -22,6 +23,7 @@ Canonical app: https://ay-worldcup2026.zeabur.app/
 - Answer index: https://ay-worldcup2026.zeabur.app/answers
 - Machine-readable answer index: https://ay-worldcup2026.zeabur.app/answers.json
 - Dataset JSON-LD: https://ay-worldcup2026.zeabur.app/dataset.json
+- MCP server: https://github.com/abaiii168/world-cup-2026-mcp-server
 - Sitemap: https://ay-worldcup2026.zeabur.app/sitemap.xml
 - RSS feed: https://ay-worldcup2026.zeabur.app/feed.xml
 
