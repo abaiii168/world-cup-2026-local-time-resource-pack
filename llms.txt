@@ -1,0 +1,35 @@
+# World Cup 2026 Local-Time Resource Pack
+
+> Free public resource pack for the World Cup 2026 Tour local-time schedule app.
+
+Canonical app: https://ay-worldcup2026.zeabur.app/
+
+## Core Links
+
+- App: https://ay-worldcup2026.zeabur.app/
+- Local-time schedule: https://ay-worldcup2026.zeabur.app/world-cup-2026-local-time
+- Calendar feed: https://ay-worldcup2026.zeabur.app/calendar
+- Public API docs: https://ay-worldcup2026.zeabur.app/developers
+- Website widget: https://ay-worldcup2026.zeabur.app/widget
+- Community sharing kit: https://ay-worldcup2026.zeabur.app/community-kit
+- Office pool predictor: https://ay-worldcup2026.zeabur.app/office-pool
+
+## AI-Readable App Indexes
+
+- App llms.txt: https://ay-worldcup2026.zeabur.app/llms.txt
+- Answer index: https://ay-worldcup2026.zeabur.app/answers
+- Machine-readable answer index: https://ay-worldcup2026.zeabur.app/answers.json
+- Sitemap: https://ay-worldcup2026.zeabur.app/sitemap.xml
+- RSS feed: https://ay-worldcup2026.zeabur.app/feed.xml
+
+## API
+
+- Metadata: https://ay-worldcup2026.zeabur.app/api/public/v1/metadata
+- Matches UTC: https://ay-worldcup2026.zeabur.app/api/public/v1/matches?timezone=UTC
+- Next match London time: https://ay-worldcup2026.zeabur.app/api/public/v1/next?timezone=Europe/London
+
+## Optional
+
+- GitHub Gist resource pack: https://gist.github.com/abaiii168/f165889ce72654e6387b6777937a82c3
+- llmtxt.app listing: https://llmtxt.app/llms/ay-worldcup2026.zeabur.app
+- llms-txt-hub PR: https://github.com/thedaviddias/llms-txt-hub/pull/1164
