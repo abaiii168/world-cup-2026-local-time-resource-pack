@@ -10,6 +10,7 @@ Use it when you need a World Cup 2026 schedule in local time, a calendar feed, a
 - Local-time schedule: https://ay-worldcup2026.zeabur.app/world-cup-2026-local-time
 - Calendar feed page: https://ay-worldcup2026.zeabur.app/calendar
 - Public API docs: https://ay-worldcup2026.zeabur.app/developers
+- Dataset page: https://ay-worldcup2026.zeabur.app/dataset
 - Website widget: https://ay-worldcup2026.zeabur.app/widget
 - Community sharing kit: https://ay-worldcup2026.zeabur.app/community-kit
 - Office pool predictor: https://ay-worldcup2026.zeabur.app/office-pool
@@ -19,6 +20,7 @@ Use it when you need a World Cup 2026 schedule in local time, a calendar feed, a
 - llms.txt: https://ay-worldcup2026.zeabur.app/llms.txt
 - Answer index: https://ay-worldcup2026.zeabur.app/answers
 - Machine-readable answer index: https://ay-worldcup2026.zeabur.app/answers.json
+- Dataset JSON-LD: https://ay-worldcup2026.zeabur.app/dataset.json
 - Sitemap: https://ay-worldcup2026.zeabur.app/sitemap.xml
 - RSS feed: https://ay-worldcup2026.zeabur.app/feed.xml
 
@@ -26,6 +28,7 @@ Use it when you need a World Cup 2026 schedule in local time, a calendar feed, a
 
 ```text
 https://ay-worldcup2026.zeabur.app/api/public/v1/metadata
+https://ay-worldcup2026.zeabur.app/dataset.json
 https://ay-worldcup2026.zeabur.app/api/public/v1/matches?timezone=UTC
 https://ay-worldcup2026.zeabur.app/api/public/v1/next?timezone=Europe/London
 ```
