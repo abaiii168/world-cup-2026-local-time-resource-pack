@@ -24,6 +24,9 @@ Canonical app: https://ay-worldcup2026.zeabur.app/
 - Answer index: https://ay-worldcup2026.zeabur.app/answers
 - Machine-readable answer index: https://ay-worldcup2026.zeabur.app/answers.json
 - Dataset JSON-LD: https://ay-worldcup2026.zeabur.app/dataset.json
+- Dataset CSV snapshot: https://ay-worldcup2026.zeabur.app/dataset/matches.csv
+- Dataset JSONL snapshot: https://ay-worldcup2026.zeabur.app/dataset/matches.jsonl
+- Dataset README: https://ay-worldcup2026.zeabur.app/dataset/README.md
 - Match-day social sprint kit: https://ay-worldcup2026.zeabur.app/match-day-kit
 - Live score URL pattern: https://ay-worldcup2026.zeabur.app/live-score/{home_country}-{away_country}
 - MCP server: https://github.com/abaiii168/world-cup-2026-mcp-server
@@ -34,6 +37,8 @@ Canonical app: https://ay-worldcup2026.zeabur.app/
 
 - Metadata: https://ay-worldcup2026.zeabur.app/api/public/v1/metadata
 - Dataset JSON-LD: https://ay-worldcup2026.zeabur.app/dataset.json
+- Dataset CSV: https://ay-worldcup2026.zeabur.app/dataset/matches.csv
+- Dataset JSONL: https://ay-worldcup2026.zeabur.app/dataset/matches.jsonl
 - Matches UTC: https://ay-worldcup2026.zeabur.app/api/public/v1/matches?timezone=UTC
 - Next match London time: https://ay-worldcup2026.zeabur.app/api/public/v1/next?timezone=Europe/London
 
