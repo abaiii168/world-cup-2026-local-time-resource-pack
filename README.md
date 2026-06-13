@@ -12,6 +12,8 @@ Use it when you need a World Cup 2026 schedule in local time, a calendar feed, a
 - Public API docs: https://ay-worldcup2026.zeabur.app/developers
 - Dataset page: https://ay-worldcup2026.zeabur.app/dataset
 - Website widget: https://ay-worldcup2026.zeabur.app/widget
+- Today's match-day social sprint kit: https://ay-worldcup2026.zeabur.app/match-day-kit
+- Search-friendly live score pages: https://ay-worldcup2026.zeabur.app/live-score/usa-paraguay
 - MCP server: https://github.com/abaiii168/world-cup-2026-mcp-server
 - Community sharing kit: https://ay-worldcup2026.zeabur.app/community-kit
 - Office pool predictor: https://ay-worldcup2026.zeabur.app/office-pool
@@ -22,6 +24,8 @@ Use it when you need a World Cup 2026 schedule in local time, a calendar feed, a
 - Answer index: https://ay-worldcup2026.zeabur.app/answers
 - Machine-readable answer index: https://ay-worldcup2026.zeabur.app/answers.json
 - Dataset JSON-LD: https://ay-worldcup2026.zeabur.app/dataset.json
+- Match-day social sprint kit: https://ay-worldcup2026.zeabur.app/match-day-kit
+- Live score URL pattern: https://ay-worldcup2026.zeabur.app/live-score/{home_country}-{away_country}
 - MCP server: https://github.com/abaiii168/world-cup-2026-mcp-server
 - Sitemap: https://ay-worldcup2026.zeabur.app/sitemap.xml
 - RSS feed: https://ay-worldcup2026.zeabur.app/feed.xml
@@ -78,3 +82,5 @@ See [`examples/widget.html`](examples/widget.html).
 - Free World Cup 2026 schedule API
 - World Cup 2026 match widget for websites
 - World Cup 2026 watch party schedule
+- World Cup 2026 live score local time
+- World Cup 2026 match-day social posts
