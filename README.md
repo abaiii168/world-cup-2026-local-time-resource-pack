@@ -36,6 +36,13 @@ Use it when you need a World Cup 2026 schedule in local time, a calendar feed, a
 - Sitemap: https://ay-worldcup2026.zeabur.app/sitemap.xml
 - RSS feed: https://ay-worldcup2026.zeabur.app/feed.xml
 
+## Verified External Discovery Surfaces
+
+- Football data listing: https://github.com/openfootball/awesome-football#world-cup-2026
+- REST API listing: https://github.com/dspinellis/awesome-rest-apis#sports
+- REST API listing archive: https://web.archive.org/web/20260613221427/https://raw.githubusercontent.com/dspinellis/awesome-rest-apis/master/README.md
+- llms-txt-hub listing PR: https://github.com/thedaviddias/llms-txt-hub/pull/1164
+
 ## Public API Examples
 
 ```text
