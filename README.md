@@ -14,6 +14,7 @@ Use it when you need a World Cup 2026 schedule in local time, a calendar feed, a
 - Website widget: https://ay-worldcup2026.zeabur.app/widget
 - Today's match-day social sprint kit: https://ay-worldcup2026.zeabur.app/match-day-kit
 - Shareable AI prediction result: https://ay-worldcup2026.zeabur.app/?match=8&oracle=1&oracle_animal=giraffe&utm_source=github_resource_pack&utm_medium=ai_prediction&utm_campaign=wc26_ai_prediction
+- Hugging Face AI prediction Space: https://huggingface.co/spaces/abaiii168/world-cup-2026-ai-predictions
 - Search-friendly live score pages: https://ay-worldcup2026.zeabur.app/live-score/usa-paraguay
 - MCP server: https://github.com/abaiii168/world-cup-2026-mcp-server
 - Community sharing kit: https://ay-worldcup2026.zeabur.app/community-kit
