@@ -13,7 +13,7 @@ Use it when you need a World Cup 2026 schedule in local time, a calendar feed, a
 - Dataset page: https://ay-worldcup2026.zeabur.app/dataset
 - Website widget: https://ay-worldcup2026.zeabur.app/widget
 - Today's match-day social sprint kit: https://ay-worldcup2026.zeabur.app/match-day-kit
-- Shareable AI prediction result: https://ay-worldcup2026.zeabur.app/?match=8&oracle=1&oracle_animal=giraffe&utm_source=github_resource_pack&utm_medium=ai_prediction&utm_campaign=wc26_ai_prediction
+- Tonight's Spain vs Cape Verde AI prediction entry: https://ay-worldcup2026.zeabur.app/?match=14&oracle=1&utm_source=github_resource_pack&utm_medium=ai_prediction&utm_campaign=wc26_spain_cape_verde
 - Hugging Face AI prediction Space: https://huggingface.co/spaces/abaiii168/world-cup-2026-ai-predictions
 - Search-friendly live score pages: https://ay-worldcup2026.zeabur.app/live-score/usa-paraguay
 - MCP server: https://github.com/abaiii168/world-cup-2026-mcp-server
@@ -30,7 +30,7 @@ Use it when you need a World Cup 2026 schedule in local time, a calendar feed, a
 - Dataset JSONL snapshot: https://ay-worldcup2026.zeabur.app/dataset/matches.jsonl
 - Dataset README: https://ay-worldcup2026.zeabur.app/dataset/README.md
 - Match-day social sprint kit: https://ay-worldcup2026.zeabur.app/match-day-kit
-- Shareable AI prediction result page: https://ay-worldcup2026.zeabur.app/?match=8&oracle=1&oracle_animal=giraffe&utm_source=github_resource_pack&utm_medium=ai_prediction&utm_campaign=wc26_ai_prediction
+- Shareable AI prediction result page: https://ay-worldcup2026.zeabur.app/?match=14&oracle=1&utm_source=github_resource_pack&utm_medium=ai_prediction&utm_campaign=wc26_spain_cape_verde
 - AI prediction URL pattern: https://ay-worldcup2026.zeabur.app/?match={match_id}&oracle=1&oracle_animal={otter|octopus|giraffe|elephant}
 - Live score URL pattern: https://ay-worldcup2026.zeabur.app/live-score/{home_country}-{away_country}
 - MCP server: https://github.com/abaiii168/world-cup-2026-mcp-server
@@ -66,12 +66,12 @@ See [`examples/fetch-next-match.js`](examples/fetch-next-match.js) for a tiny Ja
 
 See [`examples/widget.html`](examples/widget.html).
 
-## Shareable AI Predictions
+## Tonight's AI Predictions
 
 The app includes playful AI match prediction result pages with rotating SVG animal animations, a predicted winner or draw, a scoreline, and share buttons for mobile/social channels. These links are useful for watch-party chats, fan groups, social posts, and AI/search citations because the result page opens directly:
 
 ```text
-https://ay-worldcup2026.zeabur.app/?match=8&oracle=1&oracle_animal=giraffe&utm_source=github_resource_pack&utm_medium=ai_prediction&utm_campaign=wc26_ai_prediction
+https://ay-worldcup2026.zeabur.app/?match=14&oracle=1&utm_source=github_resource_pack&utm_medium=ai_prediction&utm_campaign=wc26_spain_cape_verde
 ```
 
 ## Country Local-Time Pages

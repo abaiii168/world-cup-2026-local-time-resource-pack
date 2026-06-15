@@ -14,7 +14,7 @@ Canonical app: https://ay-worldcup2026.zeabur.app/
 - Dataset page: https://ay-worldcup2026.zeabur.app/dataset
 - Website widget: https://ay-worldcup2026.zeabur.app/widget
 - Today's match-day social sprint kit: https://ay-worldcup2026.zeabur.app/match-day-kit
-- Shareable AI prediction result: https://ay-worldcup2026.zeabur.app/?match=8&oracle=1&oracle_animal=giraffe&utm_source=github_pages_resource_pack&utm_medium=ai_prediction&utm_campaign=wc26_ai_prediction
+- Tonight's Spain vs Cape Verde AI prediction entry: https://ay-worldcup2026.zeabur.app/?match=14&oracle=1&utm_source=github_pages_resource_pack&utm_medium=ai_prediction&utm_campaign=wc26_spain_cape_verde
 - Hugging Face AI prediction Space: https://huggingface.co/spaces/abaiii168/world-cup-2026-ai-predictions
 - Search-friendly live score example: https://ay-worldcup2026.zeabur.app/live-score/usa-paraguay
 - MCP server: https://github.com/abaiii168/world-cup-2026-mcp-server
@@ -31,7 +31,7 @@ Canonical app: https://ay-worldcup2026.zeabur.app/
 - Dataset JSONL snapshot: https://ay-worldcup2026.zeabur.app/dataset/matches.jsonl
 - Dataset README: https://ay-worldcup2026.zeabur.app/dataset/README.md
 - Match-day social sprint kit: https://ay-worldcup2026.zeabur.app/match-day-kit
-- Shareable AI prediction result page: https://ay-worldcup2026.zeabur.app/?match=8&oracle=1&oracle_animal=giraffe&utm_source=github_pages_resource_pack&utm_medium=ai_prediction&utm_campaign=wc26_ai_prediction
+- Shareable AI prediction result page: https://ay-worldcup2026.zeabur.app/?match=14&oracle=1&utm_source=github_pages_resource_pack&utm_medium=ai_prediction&utm_campaign=wc26_spain_cape_verde
 - AI prediction URL pattern: https://ay-worldcup2026.zeabur.app/?match={match_id}&oracle=1&oracle_animal={otter|octopus|giraffe|elephant}
 - Live score URL pattern: https://ay-worldcup2026.zeabur.app/live-score/{home_country}-{away_country}
 - MCP server: https://github.com/abaiii168/world-cup-2026-mcp-server
