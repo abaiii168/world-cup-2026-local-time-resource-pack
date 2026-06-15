@@ -14,6 +14,7 @@ Use it when you need a World Cup 2026 schedule in local time, a calendar feed, a
 - Website widget: https://ay-worldcup2026.zeabur.app/widget
 - Today's match-day social sprint kit: https://ay-worldcup2026.zeabur.app/match-day-kit
 - Tonight's Spain vs Cape Verde AI prediction entry: https://ay-worldcup2026.zeabur.app/?match=14&oracle=1&utm_source=github_resource_pack&utm_medium=ai_prediction&utm_campaign=wc26_spain_cape_verde
+- Zoomable 48-team bracket view: https://ay-worldcup2026.zeabur.app/?view=standings&utm_source=github_resource_pack&utm_medium=bracket&utm_campaign=wc26_bracket_feature
 - Hugging Face AI prediction Space: https://huggingface.co/spaces/abaiii168/world-cup-2026-ai-predictions
 - Search-friendly live score pages: https://ay-worldcup2026.zeabur.app/live-score/usa-paraguay
 - MCP server: https://github.com/abaiii168/world-cup-2026-mcp-server
@@ -31,6 +32,8 @@ Use it when you need a World Cup 2026 schedule in local time, a calendar feed, a
 - Dataset README: https://ay-worldcup2026.zeabur.app/dataset/README.md
 - Match-day social sprint kit: https://ay-worldcup2026.zeabur.app/match-day-kit
 - Shareable AI prediction result page: https://ay-worldcup2026.zeabur.app/?match=14&oracle=1&utm_source=github_resource_pack&utm_medium=ai_prediction&utm_campaign=wc26_spain_cape_verde
+- Zoomable bracket view: https://ay-worldcup2026.zeabur.app/?view=standings&utm_source=github_resource_pack&utm_medium=bracket&utm_campaign=wc26_bracket_feature
+- 48-team bracket use case: live group context, Round of 32 slots, best third-place paths, and the road to the Final in one draggable board.
 - AI prediction URL pattern: https://ay-worldcup2026.zeabur.app/?match={match_id}&oracle=1&oracle_animal={otter|octopus|giraffe|elephant}
 - Live score URL pattern: https://ay-worldcup2026.zeabur.app/live-score/{home_country}-{away_country}
 - MCP server: https://github.com/abaiii168/world-cup-2026-mcp-server
@@ -74,6 +77,14 @@ The app includes playful AI match prediction result pages with rotating SVG anim
 https://ay-worldcup2026.zeabur.app/?match=14&oracle=1&utm_source=github_resource_pack&utm_medium=ai_prediction&utm_campaign=wc26_spain_cape_verde
 ```
 
+## World Cup 2026 Bracket View
+
+The app also has a zoomable 48-team bracket view for the expanded World Cup format. It combines live group-table context, Round of 32 slots, possible best-third-place paths, and the route to the Final:
+
+```text
+https://ay-worldcup2026.zeabur.app/?view=standings&utm_source=github_resource_pack&utm_medium=bracket&utm_campaign=wc26_bracket_feature
+```
+
 ## Country Local-Time Pages
 
 - Taiwan: https://ay-worldcup2026.zeabur.app/for/taiwan
@@ -110,3 +121,8 @@ https://ay-worldcup2026.zeabur.app/?match=14&oracle=1&utm_source=github_resource
 - World Cup 2026 match-day social posts
 - World Cup 2026 AI prediction
 - World Cup 2026 animal prediction result
+- World Cup 2026 bracket
+- World Cup 2026 48 team bracket
+- World Cup 2026 Round of 32 bracket
+- World Cup 2026 best third placed teams bracket
+- World Cup 2026 knockout path
