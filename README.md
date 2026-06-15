@@ -12,8 +12,11 @@ Use it when you need a World Cup 2026 schedule in local time, a calendar feed, a
 - Public API docs: https://ay-worldcup2026.zeabur.app/developers
 - Dataset page: https://ay-worldcup2026.zeabur.app/dataset
 - Website widget: https://ay-worldcup2026.zeabur.app/widget
+- Today's World Cup games page: https://ay-worldcup2026.zeabur.app/world-cup-games-today?utm_source=github_resource_pack&utm_medium=today_page&utm_campaign=wc26_matchday_5_window
+- Matchday 5 rolling window: Spain vs Cape Verde, Belgium vs Egypt, Saudi Arabia vs Uruguay, and Iran vs New Zealand across June 15 US time / June 16 Asia-Pacific time.
 - Today's match-day social sprint kit: https://ay-worldcup2026.zeabur.app/match-day-kit
-- Tonight's Spain vs Cape Verde AI prediction entry: https://ay-worldcup2026.zeabur.app/?match=14&oracle=1&utm_source=github_resource_pack&utm_medium=ai_prediction&utm_campaign=wc26_spain_cape_verde
+- Today's shareable AI prediction entry: https://ay-worldcup2026.zeabur.app/world-cup-games-today?utm_source=github_resource_pack&utm_medium=ai_prediction&utm_campaign=wc26_matchday_5_window
+- Spain vs Cape Verde AI prediction result: https://ay-worldcup2026.zeabur.app/?match=14&oracle=1&utm_source=github_resource_pack&utm_medium=ai_prediction&utm_campaign=wc26_spain_cape_verde
 - Zoomable 48-team bracket view: https://ay-worldcup2026.zeabur.app/?view=standings&utm_source=github_resource_pack&utm_medium=bracket&utm_campaign=wc26_bracket_feature
 - Hugging Face AI prediction Space: https://huggingface.co/spaces/abaiii168/world-cup-2026-ai-predictions
 - Search-friendly live score pages: https://ay-worldcup2026.zeabur.app/live-score/usa-paraguay
