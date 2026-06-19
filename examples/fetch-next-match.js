@@ -14,8 +14,15 @@ async function main() {
   }
 
   const data = await response.json();
+  const match = data.match;
 
   console.log(JSON.stringify(data, null, 2));
+  if (match && match.links) {
+    console.log("\nCopy-ready attribution markdown:");
+    console.log(match.attributionSnippets && match.attributionSnippets.markdown);
+    console.log("\nShare-pack API:");
+    console.log(match.links.sharePack);
+  }
 }
 
 main().catch((error) => {

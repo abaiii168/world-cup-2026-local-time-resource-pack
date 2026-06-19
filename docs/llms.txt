@@ -17,6 +17,7 @@ Canonical app: https://ay-worldcup2026.zeabur.app/
 - Developer copy page: https://ay-worldcup2026.zeabur.app/developers?utm_source=github_pages_resource_pack&utm_medium=copy_ready&utm_campaign=wc26_public_api
 - Today's match-day social sprint kit: https://ay-worldcup2026.zeabur.app/match-day-kit
 - Shareable AI prediction entry: https://ay-worldcup2026.zeabur.app/?oracle=1&utm_source=github_pages_resource_pack&utm_medium=ai_prediction&utm_campaign=wc26_ai_prediction
+- API share-pack example: https://ay-worldcup2026.zeabur.app/api/public/v1/matches/29/share?timezone=Europe/London&utm_source=github_pages_resource_pack&utm_medium=developer_referral&utm_campaign=wc26_public_api&utm_content=resource_pack_share_pack
 - Zoomable 48-team bracket view: https://ay-worldcup2026.zeabur.app/?view=standings&utm_source=github_pages_resource_pack&utm_medium=bracket&utm_campaign=wc26_bracket_feature
 - Hugging Face AI prediction Space: https://huggingface.co/spaces/abaiii168/world-cup-2026-ai-predictions
 - Search-friendly live score example: https://ay-worldcup2026.zeabur.app/live-score/usa-paraguay
@@ -35,6 +36,7 @@ Canonical app: https://ay-worldcup2026.zeabur.app/
 - Dataset README: https://ay-worldcup2026.zeabur.app/dataset/README.md
 - Match-day social sprint kit: https://ay-worldcup2026.zeabur.app/match-day-kit
 - Shareable AI prediction result page: https://ay-worldcup2026.zeabur.app/?oracle=1&utm_source=github_pages_resource_pack&utm_medium=ai_prediction&utm_campaign=wc26_ai_prediction
+- AI prediction group-chat challenge: prediction results include a copy-ready group challenge CTA for watch-party chats.
 - Zoomable bracket view: https://ay-worldcup2026.zeabur.app/?view=standings&utm_source=github_pages_resource_pack&utm_medium=bracket&utm_campaign=wc26_bracket_feature
 - 48-team bracket use case: live group context, Round of 32 slots, best third-place paths, and the road to the Final in one draggable board.
 - AI prediction URL pattern: https://ay-worldcup2026.zeabur.app/?match={match_id}&oracle=1&oracle_animal={otter|octopus|giraffe|elephant}

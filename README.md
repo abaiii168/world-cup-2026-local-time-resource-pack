@@ -16,6 +16,7 @@ Use it when you need a World Cup 2026 schedule in local time, a calendar feed, a
 - Developer copy page: https://ay-worldcup2026.zeabur.app/developers?utm_source=github_resource_pack&utm_medium=copy_ready&utm_campaign=wc26_public_api
 - Today's match-day social sprint kit: https://ay-worldcup2026.zeabur.app/match-day-kit
 - Shareable AI prediction entry: https://ay-worldcup2026.zeabur.app/?oracle=1&utm_source=github_resource_pack&utm_medium=ai_prediction&utm_campaign=wc26_ai_prediction
+- API share-pack example: https://ay-worldcup2026.zeabur.app/api/public/v1/matches/29/share?timezone=Europe/London&utm_source=github_resource_pack&utm_medium=developer_referral&utm_campaign=wc26_public_api&utm_content=resource_pack_share_pack
 - Zoomable 48-team bracket view: https://ay-worldcup2026.zeabur.app/?view=standings&utm_source=github_resource_pack&utm_medium=bracket&utm_campaign=wc26_bracket_feature
 - Hugging Face AI prediction Space: https://huggingface.co/spaces/abaiii168/world-cup-2026-ai-predictions
 - Search-friendly live score pages: https://ay-worldcup2026.zeabur.app/live-score/usa-paraguay
@@ -34,6 +35,7 @@ Use it when you need a World Cup 2026 schedule in local time, a calendar feed, a
 - Dataset README: https://ay-worldcup2026.zeabur.app/dataset/README.md
 - Match-day social sprint kit: https://ay-worldcup2026.zeabur.app/match-day-kit
 - Shareable AI prediction result page: https://ay-worldcup2026.zeabur.app/?oracle=1&utm_source=github_resource_pack&utm_medium=ai_prediction&utm_campaign=wc26_ai_prediction
+- AI prediction group-chat challenge: open a prediction result, then use the copy-ready group challenge CTA to send the prediction into a watch-party chat.
 - Zoomable bracket view: https://ay-worldcup2026.zeabur.app/?view=standings&utm_source=github_resource_pack&utm_medium=bracket&utm_campaign=wc26_bracket_feature
 - 48-team bracket use case: live group context, Round of 32 slots, best third-place paths, and the road to the Final in one draggable board.
 - AI prediction URL pattern: https://ay-worldcup2026.zeabur.app/?match={match_id}&oracle=1&oracle_animal={otter|octopus|giraffe|elephant}
@@ -58,9 +60,10 @@ https://ay-worldcup2026.zeabur.app/dataset/matches.csv
 https://ay-worldcup2026.zeabur.app/dataset/matches.jsonl
 https://ay-worldcup2026.zeabur.app/api/public/v1/matches?timezone=UTC&utm_source=github_resource_pack&utm_medium=developer_referral&utm_campaign=wc26_public_api
 https://ay-worldcup2026.zeabur.app/api/public/v1/next?timezone=Europe/London&utm_source=github_resource_pack&utm_medium=developer_referral&utm_campaign=wc26_public_api
+https://ay-worldcup2026.zeabur.app/api/public/v1/matches/29/share?timezone=Europe/London&utm_source=github_resource_pack&utm_medium=developer_referral&utm_campaign=wc26_public_api&utm_content=resource_pack_share_pack
 ```
 
-See [`examples/fetch-next-match.js`](examples/fetch-next-match.js) for a tiny JavaScript example.
+See [`examples/fetch-next-match.js`](examples/fetch-next-match.js) for a tiny JavaScript example. The API response includes `links.sharePack` and `attributionSnippets.markdown`, so README/blog widgets can keep referral attribution.
 
 ## Embed The Next-Match Widget
 
@@ -73,7 +76,7 @@ See [`examples/widget.html`](examples/widget.html).
 
 ## Tonight's AI Predictions
 
-The app includes playful AI match prediction result pages with rotating SVG animal animations, a predicted winner or draw, a scoreline, and share buttons for mobile/social channels. These links are useful for watch-party chats, fan groups, social posts, and AI/search citations because the result page opens directly:
+The app includes playful AI match prediction result pages with rotating SVG animal animations, a predicted winner or draw, a scoreline, share buttons, and a copy-ready group-chat challenge. These links are useful for watch-party chats, fan groups, social posts, and AI/search citations because the result page opens directly:
 
 ```text
 https://ay-worldcup2026.zeabur.app/?oracle=1&utm_source=github_resource_pack&utm_medium=ai_prediction&utm_campaign=wc26_ai_prediction
