@@ -7,17 +7,16 @@ Canonical app: https://ay-worldcup2026.zeabur.app/
 
 ## Core Links
 
-- App: https://ay-worldcup2026.zeabur.app/
-- Local-time schedule: https://ay-worldcup2026.zeabur.app/world-cup-2026-local-time
-- Calendar feed: https://ay-worldcup2026.zeabur.app/calendar
-- Public API docs: https://ay-worldcup2026.zeabur.app/developers
+- App: https://ay-worldcup2026.zeabur.app/?utm_source=github_pages_resource_pack&utm_medium=llms_txt&utm_campaign=wc26_resource_pack
+- Local-time schedule: https://ay-worldcup2026.zeabur.app/world-cup-2026-local-time?utm_source=github_pages_resource_pack&utm_medium=llms_txt&utm_campaign=wc26_local_time
+- Calendar feed: https://ay-worldcup2026.zeabur.app/calendar?utm_source=github_pages_resource_pack&utm_medium=calendar&utm_campaign=wc26_calendar
+- Public API docs: https://ay-worldcup2026.zeabur.app/developers?utm_source=github_pages_resource_pack&utm_medium=developer_referral&utm_campaign=wc26_public_api
 - Dataset page: https://ay-worldcup2026.zeabur.app/dataset
-- Website widget: https://ay-worldcup2026.zeabur.app/widget
-- Today's World Cup games page: https://ay-worldcup2026.zeabur.app/world-cup-games-today?utm_source=github_pages_resource_pack&utm_medium=today_page&utm_campaign=wc26_matchday_5_window
-- Matchday 5 rolling window: Spain vs Cape Verde, Belgium vs Egypt, Saudi Arabia vs Uruguay, and Iran vs New Zealand across June 15 US time / June 16 Asia-Pacific time.
+- Website widget: https://ay-worldcup2026.zeabur.app/widget?utm_source=github_pages_resource_pack&utm_medium=developer_referral&utm_campaign=wc26_public_widget
+- Today's World Cup games page: https://ay-worldcup2026.zeabur.app/world-cup-games-today?utm_source=github_pages_resource_pack&utm_medium=today_page&utm_campaign=wc26_today
+- Developer copy page: https://ay-worldcup2026.zeabur.app/developers?utm_source=github_pages_resource_pack&utm_medium=copy_ready&utm_campaign=wc26_public_api
 - Today's match-day social sprint kit: https://ay-worldcup2026.zeabur.app/match-day-kit
-- Today's shareable AI prediction entry: https://ay-worldcup2026.zeabur.app/world-cup-games-today?utm_source=github_pages_resource_pack&utm_medium=ai_prediction&utm_campaign=wc26_matchday_5_window
-- Spain vs Cape Verde AI prediction result: https://ay-worldcup2026.zeabur.app/?match=14&oracle=1&utm_source=github_pages_resource_pack&utm_medium=ai_prediction&utm_campaign=wc26_spain_cape_verde
+- Shareable AI prediction entry: https://ay-worldcup2026.zeabur.app/?oracle=1&utm_source=github_pages_resource_pack&utm_medium=ai_prediction&utm_campaign=wc26_ai_prediction
 - Zoomable 48-team bracket view: https://ay-worldcup2026.zeabur.app/?view=standings&utm_source=github_pages_resource_pack&utm_medium=bracket&utm_campaign=wc26_bracket_feature
 - Hugging Face AI prediction Space: https://huggingface.co/spaces/abaiii168/world-cup-2026-ai-predictions
 - Search-friendly live score example: https://ay-worldcup2026.zeabur.app/live-score/usa-paraguay
@@ -35,7 +34,7 @@ Canonical app: https://ay-worldcup2026.zeabur.app/
 - Dataset JSONL snapshot: https://ay-worldcup2026.zeabur.app/dataset/matches.jsonl
 - Dataset README: https://ay-worldcup2026.zeabur.app/dataset/README.md
 - Match-day social sprint kit: https://ay-worldcup2026.zeabur.app/match-day-kit
-- Shareable AI prediction result page: https://ay-worldcup2026.zeabur.app/?match=14&oracle=1&utm_source=github_pages_resource_pack&utm_medium=ai_prediction&utm_campaign=wc26_spain_cape_verde
+- Shareable AI prediction result page: https://ay-worldcup2026.zeabur.app/?oracle=1&utm_source=github_pages_resource_pack&utm_medium=ai_prediction&utm_campaign=wc26_ai_prediction
 - Zoomable bracket view: https://ay-worldcup2026.zeabur.app/?view=standings&utm_source=github_pages_resource_pack&utm_medium=bracket&utm_campaign=wc26_bracket_feature
 - 48-team bracket use case: live group context, Round of 32 slots, best third-place paths, and the road to the Final in one draggable board.
 - AI prediction URL pattern: https://ay-worldcup2026.zeabur.app/?match={match_id}&oracle=1&oracle_animal={otter|octopus|giraffe|elephant}

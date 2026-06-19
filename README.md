@@ -6,17 +6,16 @@ Use it when you need a World Cup 2026 schedule in local time, a calendar feed, a
 
 ## Best Starting Links
 
-- App: https://ay-worldcup2026.zeabur.app/
-- Local-time schedule: https://ay-worldcup2026.zeabur.app/world-cup-2026-local-time
-- Calendar feed page: https://ay-worldcup2026.zeabur.app/calendar
-- Public API docs: https://ay-worldcup2026.zeabur.app/developers
+- App: https://ay-worldcup2026.zeabur.app/?utm_source=github_resource_pack&utm_medium=readme&utm_campaign=wc26_resource_pack
+- Local-time schedule: https://ay-worldcup2026.zeabur.app/world-cup-2026-local-time?utm_source=github_resource_pack&utm_medium=readme&utm_campaign=wc26_local_time
+- Calendar feed page: https://ay-worldcup2026.zeabur.app/calendar?utm_source=github_resource_pack&utm_medium=calendar&utm_campaign=wc26_calendar
+- Public API docs: https://ay-worldcup2026.zeabur.app/developers?utm_source=github_resource_pack&utm_medium=developer_referral&utm_campaign=wc26_public_api
 - Dataset page: https://ay-worldcup2026.zeabur.app/dataset
-- Website widget: https://ay-worldcup2026.zeabur.app/widget
-- Today's World Cup games page: https://ay-worldcup2026.zeabur.app/world-cup-games-today?utm_source=github_resource_pack&utm_medium=today_page&utm_campaign=wc26_matchday_5_window
-- Matchday 5 rolling window: Spain vs Cape Verde, Belgium vs Egypt, Saudi Arabia vs Uruguay, and Iran vs New Zealand across June 15 US time / June 16 Asia-Pacific time.
+- Website widget: https://ay-worldcup2026.zeabur.app/widget?utm_source=github_resource_pack&utm_medium=developer_referral&utm_campaign=wc26_public_widget
+- Today's World Cup games page: https://ay-worldcup2026.zeabur.app/world-cup-games-today?utm_source=github_resource_pack&utm_medium=today_page&utm_campaign=wc26_today
+- Developer copy page: https://ay-worldcup2026.zeabur.app/developers?utm_source=github_resource_pack&utm_medium=copy_ready&utm_campaign=wc26_public_api
 - Today's match-day social sprint kit: https://ay-worldcup2026.zeabur.app/match-day-kit
-- Today's shareable AI prediction entry: https://ay-worldcup2026.zeabur.app/world-cup-games-today?utm_source=github_resource_pack&utm_medium=ai_prediction&utm_campaign=wc26_matchday_5_window
-- Spain vs Cape Verde AI prediction result: https://ay-worldcup2026.zeabur.app/?match=14&oracle=1&utm_source=github_resource_pack&utm_medium=ai_prediction&utm_campaign=wc26_spain_cape_verde
+- Shareable AI prediction entry: https://ay-worldcup2026.zeabur.app/?oracle=1&utm_source=github_resource_pack&utm_medium=ai_prediction&utm_campaign=wc26_ai_prediction
 - Zoomable 48-team bracket view: https://ay-worldcup2026.zeabur.app/?view=standings&utm_source=github_resource_pack&utm_medium=bracket&utm_campaign=wc26_bracket_feature
 - Hugging Face AI prediction Space: https://huggingface.co/spaces/abaiii168/world-cup-2026-ai-predictions
 - Search-friendly live score pages: https://ay-worldcup2026.zeabur.app/live-score/usa-paraguay
@@ -34,7 +33,7 @@ Use it when you need a World Cup 2026 schedule in local time, a calendar feed, a
 - Dataset JSONL snapshot: https://ay-worldcup2026.zeabur.app/dataset/matches.jsonl
 - Dataset README: https://ay-worldcup2026.zeabur.app/dataset/README.md
 - Match-day social sprint kit: https://ay-worldcup2026.zeabur.app/match-day-kit
-- Shareable AI prediction result page: https://ay-worldcup2026.zeabur.app/?match=14&oracle=1&utm_source=github_resource_pack&utm_medium=ai_prediction&utm_campaign=wc26_spain_cape_verde
+- Shareable AI prediction result page: https://ay-worldcup2026.zeabur.app/?oracle=1&utm_source=github_resource_pack&utm_medium=ai_prediction&utm_campaign=wc26_ai_prediction
 - Zoomable bracket view: https://ay-worldcup2026.zeabur.app/?view=standings&utm_source=github_resource_pack&utm_medium=bracket&utm_campaign=wc26_bracket_feature
 - 48-team bracket use case: live group context, Round of 32 slots, best third-place paths, and the road to the Final in one draggable board.
 - AI prediction URL pattern: https://ay-worldcup2026.zeabur.app/?match={match_id}&oracle=1&oracle_animal={otter|octopus|giraffe|elephant}
@@ -57,8 +56,8 @@ https://ay-worldcup2026.zeabur.app/api/public/v1/metadata
 https://ay-worldcup2026.zeabur.app/dataset.json
 https://ay-worldcup2026.zeabur.app/dataset/matches.csv
 https://ay-worldcup2026.zeabur.app/dataset/matches.jsonl
-https://ay-worldcup2026.zeabur.app/api/public/v1/matches?timezone=UTC
-https://ay-worldcup2026.zeabur.app/api/public/v1/next?timezone=Europe/London
+https://ay-worldcup2026.zeabur.app/api/public/v1/matches?timezone=UTC&utm_source=github_resource_pack&utm_medium=developer_referral&utm_campaign=wc26_public_api
+https://ay-worldcup2026.zeabur.app/api/public/v1/next?timezone=Europe/London&utm_source=github_resource_pack&utm_medium=developer_referral&utm_campaign=wc26_public_api
 ```
 
 See [`examples/fetch-next-match.js`](examples/fetch-next-match.js) for a tiny JavaScript example.
@@ -66,8 +65,8 @@ See [`examples/fetch-next-match.js`](examples/fetch-next-match.js) for a tiny Ja
 ## Embed The Next-Match Widget
 
 ```html
-<div id="wc26-widget"></div>
-<script src="https://ay-worldcup2026.zeabur.app/embed/world-cup-2026.js" defer></script>
+<div data-wc26-next-match></div>
+<script async src="https://ay-worldcup2026.zeabur.app/embed/world-cup-2026.js?utm_source=github_resource_pack&utm_medium=developer_referral&utm_campaign=wc26_public_widget"></script>
 ```
 
 See [`examples/widget.html`](examples/widget.html).
@@ -77,7 +76,7 @@ See [`examples/widget.html`](examples/widget.html).
 The app includes playful AI match prediction result pages with rotating SVG animal animations, a predicted winner or draw, a scoreline, and share buttons for mobile/social channels. These links are useful for watch-party chats, fan groups, social posts, and AI/search citations because the result page opens directly:
 
 ```text
-https://ay-worldcup2026.zeabur.app/?match=14&oracle=1&utm_source=github_resource_pack&utm_medium=ai_prediction&utm_campaign=wc26_spain_cape_verde
+https://ay-worldcup2026.zeabur.app/?oracle=1&utm_source=github_resource_pack&utm_medium=ai_prediction&utm_campaign=wc26_ai_prediction
 ```
 
 ## World Cup 2026 Bracket View
