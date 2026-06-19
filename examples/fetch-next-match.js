@@ -5,6 +5,7 @@ endpoint.searchParams.set("timezone", timezone);
 endpoint.searchParams.set("utm_source", "github_resource_pack");
 endpoint.searchParams.set("utm_medium", "developer_referral");
 endpoint.searchParams.set("utm_campaign", "wc26_public_api");
+endpoint.searchParams.set("utm_content", "resource_pack_next_match_example");
 
 async function main() {
   const response = await fetch(endpoint);
